@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1676739724 source:d:\embedded systems\abdelbasit\tasks\new folder\school\func.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"func.h"
+
+1676650903 d:\embedded systems\abdelbasit\tasks\new folder\school\func.h
+
+1676739549 source:d:\embedded systems\abdelbasit\tasks\new folder\school\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"func.h"
+
