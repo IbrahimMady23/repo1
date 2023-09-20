@@ -6,7 +6,7 @@
 
 int main()
 {
-    int index,searched,j;
+    int index=0,searched,j;
     system("cls");
     printf(ANSI_COLOR_CYAN"welcome to students data structure in AL AMEER NASSAR School\n\n");
     for(index=0; index<4; index++)
@@ -55,6 +55,7 @@ int main()
             }
             else
             {
+				
                 while(1) //processing on current student
                 {
                     system("cls");
